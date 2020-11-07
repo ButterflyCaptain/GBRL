@@ -1,0 +1,4 @@
+(1) pytorch (https://anaconda.org/pytorch/pytorch) 
+(2) sklearn (https://anaconda.org/anaconda/scikit-learn) 
+(3) transformers (https://anaconda.org/conda-forge/transformers) 
+(4) networkx (https://anaconda.org/anaconda/networkx) 
