@@ -1,4 +1,11 @@
-(1) pytorch (https://anaconda.org/pytorch/pytorch) 
-(2) sklearn (https://anaconda.org/anaconda/scikit-learn) 
-(3) transformers (https://anaconda.org/conda-forge/transformers) 
-(4) networkx (https://anaconda.org/anaconda/networkx) 
+pytorch (https://anaconda.org/pytorch/pytorch) 
+sklearn (https://anaconda.org/anaconda/scikit-learn) 
+transformers (https://anaconda.org/conda-forge/transformers) 
+networkx (https://anaconda.org/anaconda/networkx) 
+Python>=3.6
+NumPy
+SciPy
+PyTorch>=1.1
+tqdm
+tensorboard_logger
+Matplotlib
