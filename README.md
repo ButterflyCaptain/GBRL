@@ -11,13 +11,13 @@ The data set in our experiment, such as VRP, TSP and BA, is the generated data, 
 python create_data.py --problem all --name validation --seed 
 
 python create_data.py --problem all --name test --seed 
-# GBRL_R Training
+# GBRL_R 
 We take generating data TSP50 as an example to demonstrate the training method.
 
 python R_train.py --graph_size 50 --run_name 'tsp50' --dataset data/tsp/tsp50_training_seed1.pkl
 
 python R_run.py --graph_size 50 --run_name 'tsp50' --dataset data/tsp/tsp50_validation_seed2.pkl
-# GBRL_Q Training
+# GBRL_Q 
 python Q_train.py --graph_size 50 --run_name 'tsp50' --dataset data/tsp/tsp50_training_seed1.pkl
 
 python Q_run.py --graph_size 50 --run_name 'tsp50' --dataset data/tsp/tsp50_validation_seed2.pkl
