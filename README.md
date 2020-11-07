@@ -4,3 +4,5 @@
 ![image](https://github.com/ButterflyCaptain/GBRL/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE1.png)
 # GRAPH-BERT
   We have applied GRAPH-BERT to the framework as a GNN for data processing, so we used part of the code in "https://github.com/jwzhanggy/Graph-Bert" and referenced it in the paper.
+# DataSet
+The data set in our experiment, such as VRP, TSP and BA, is the generated data, and the rest data comes from http://snap.stanford.edu/data/index.html.
